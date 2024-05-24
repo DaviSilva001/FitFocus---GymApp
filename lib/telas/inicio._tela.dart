@@ -15,6 +15,7 @@ class InicioTela extends StatelessWidget {
       treino: "Treino A",
       comoFazer: "puxa",
     ),
+    
     ExercicioModelo(
       id: "EX01",
       nome: "Remada Supinada",
